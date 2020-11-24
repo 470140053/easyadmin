@@ -1,0 +1,42 @@
+[2020-11-23 06:05:26][debug][notice]:[Undefined index: USE at file:/Users/tongziyang/easy/easyadmin/App/Common/Help.php line:63]
+[2020-11-23 06:07:50][debug][error]:[Cannot use object of type stdClass as array at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:50]
+[2020-11-23 06:08:00][debug][error]:[Cannot use object of type stdClass as array at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:50]
+[2020-11-23 06:09:06][debug][error]:[Cannot use object of type stdClass as array at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:51]
+[2020-11-23 06:16:28][debug][error]:[Cannot use object of type stdClass as array at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:51]
+[2020-11-23 17:52:19][debug][warning]:[Use of undefined constant trues - assumed 'trues' (this will throw an Error in a future version of PHP) at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:38]
+[2020-11-23 17:52:19][debug][warning]:[Use of undefined constant trues - assumed 'trues' (this will throw an Error in a future version of PHP) at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:38]
+[2020-11-23 17:52:19][debug][warning]:[Use of undefined constant trues - assumed 'trues' (this will throw an Error in a future version of PHP) at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/SystemConfigModel.php line:38]
+[2020-11-23 17:52:19][debug][warning]:[Illegal string offset 'pid' at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php line:114]
+[2020-11-23 17:52:19][debug][error]:[Argument 1 passed to App\Http\Admin\Assemble\AuthRuleAssemble::packageData() must be of the type array, string given, called in /Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php on line 115 at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Assemble/AuthRuleAssemble.php line:33]
+[2020-11-23 17:54:17][debug][warning]:[Illegal string offset 'pid' at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php line:114]
+[2020-11-23 17:54:17][debug][error]:[Argument 1 passed to App\Http\Admin\Assemble\AuthRuleAssemble::packageData() must be of the type array, string given, called in /Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php on line 116 at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Assemble/AuthRuleAssemble.php line:33]
+[2020-11-23 17:55:10][debug][warning]:[Illegal string offset 'pid' at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php line:114]
+[2020-11-23 17:55:10][debug][error]:[Argument 1 passed to App\Http\Admin\Assemble\AuthRuleAssemble::packageData() must be of the type array, string given, called in /Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php on line 116 at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Assemble/AuthRuleAssemble.php line:33]
+[2020-11-23 17:56:21][debug][warning]:[Illegal string offset 'pid' at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php line:114]
+[2020-11-23 17:56:21][debug][error]:[Argument 1 passed to App\Http\Admin\Assemble\AuthRuleAssemble::packageData() must be of the type array, string given, called in /Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php on line 116 at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Assemble/AuthRuleAssemble.php line:33]
+[2020-11-23 17:58:26][debug][warning]:[Illegal string offset 'pid' at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php line:114]
+[2020-11-23 17:58:26][debug][error]:[Argument 1 passed to App\Http\Admin\Assemble\AuthRuleAssemble::packageData() must be of the type array, string given, called in /Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php on line 116 at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Assemble/AuthRuleAssemble.php line:33]
+[2020-11-23 18:04:56][debug][error]:[Too few arguments to function App\Http\Admin\Model\AuthRuleModel::createMenu(), 1 passed in /Users/tongziyang/easy/easyadmin/App/Http/Addons/user/User.php on line 122 and exactly 3 expected at file:/Users/tongziyang/easy/easyadmin/App/Http/Admin/Model/AuthRuleModel.php line:110]
+[2020-11-23 18:27:56][debug][notice]:[Undefined index: plug_id at file:/Users/tongziyang/easy/easyadmin/App/Http/AddonsApi/Controller/Plug.php line:115]
+[2020-11-23 18:27:56][debug][notice]:[Undefined index: plug_version_id at file:/Users/tongziyang/easy/easyadmin/App/Http/AddonsApi/Controller/Plug.php line:116]
+[2020-11-23 18:27:56][debug][notice]:[Undefined index: money at file:/Users/tongziyang/easy/easyadmin/App/Http/AddonsApi/Controller/Plug.php line:119]
+[2020-11-23 18:27:56][debug][error]:[SQLSTATE[23000] [1048] Column 'plug_id' cannot be null [INSERT  INTO `tp_plug_user` (`plug_id`, `plug_version_id`, `version_no`, `is_pay`, `money`, `create_time`, `update_time`)  VALUES ('NULL', 'NULL', 'v1.0', '', 'NULL', 1606127276, 1606127276)] at file:/Users/tongziyang/easy/easyadmin/vendor/easyswoole/orm/src/Db/MysqliClient.php line:70]
+[2020-11-23 18:28:21][debug][notice]:[Undefined index: plug_version_id at file:/Users/tongziyang/easy/easyadmin/App/Http/AddonsApi/Controller/Plug.php line:116]
+[2020-11-23 18:28:21][debug][error]:[SQLSTATE[23000] [1048] Column 'plug_version_id' cannot be null [INSERT  INTO `tp_plug_user` (`plug_id`, `plug_version_id`, `version_no`, `is_pay`, `money`, `create_time`, `update_time`)  VALUES (3, 'NULL', 'v1.0', '', 0.00, 1606127301, 1606127301)] at file:/Users/tongziyang/easy/easyadmin/vendor/easyswoole/orm/src/Db/MysqliClient.php line:70]
+[2020-11-23 18:28:43][debug][error]:[SQLSTATE[HY000] [1366] Incorrect integer value: '' for column 'is_pay' at row 1 [INSERT  INTO `tp_plug_user` (`plug_id`, `plug_version_id`, `version_no`, `is_pay`, `money`, `create_time`, `update_time`)  VALUES (3, 1, 'v1.0', '', 0.00, 1606127323, 1606127323)] at file:/Users/tongziyang/easy/easyadmin/vendor/easyswoole/orm/src/Db/MysqliClient.php line:70]
+[2020-11-23 20:15:42][debug][error]:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9508], Error: Address already in use[48] in /Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/easyswoole/src/ServerManager.php:62
+Stack trace:
+#0 /Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/easyswoole/src/ServerManager.php(62): Swoole\Server->__construct('0.0.0.0', 9508, 2, 1)
+#1 /Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/easyswoole/src/Core.php(107): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9508, 3, '0.0.0.0', Array, 2, 1)
+#2 /Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Server.php(114): EasySwoole\EasySwoole\Core->createServer()
+#3 /Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Server.php(54): EasySwoole\EasySwoole\Command\DefaultCommand\Server->start()
+#4 /Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/command/src/CommandManager.php(101): EasySwoole\EasySwoole\Command\DefaultCommand\Server->exec()
+#5 /U at file:/Users/tongziyang/easy/easyadmin_zV1/vendor/easyswoole/easyswoole/src/ServerManager.php line:62]
+[2020-11-24 13:46:10][debug][error]:[Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9508], Error: Address already in use[48] in /Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/easyswoole/src/ServerManager.php:62
+Stack trace:
+#0 /Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/easyswoole/src/ServerManager.php(62): Swoole\Server->__construct('0.0.0.0', 9508, 2, 1)
+#1 /Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/easyswoole/src/Core.php(107): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9508, 3, '0.0.0.0', Array, 2, 1)
+#2 /Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Server.php(114): EasySwoole\EasySwoole\Core->createServer()
+#3 /Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Server.php(54): EasySwoole\EasySwoole\Command\DefaultCommand\Server->start()
+#4 /Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/command/src/CommandManager.php(101): EasySwoole\EasySwoole\Command\DefaultCommand\Server->exec()
+#5 /Users/tongziy at file:/Users/tongziyang/easy/t/easyadmin/vendor/easyswoole/easyswoole/src/ServerManager.php line:62]
